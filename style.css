@@ -1,2 +1,8 @@
-.destacado {color: rgb(12, 207, 142);}
-#destacado {color:brown;}
+.destacado {color: rgb(12, 207, 142);
+font-size: 50px;}
+#destacado {color:rgb(19, 148, 223);}
+body {background-color: rgb(156, 82, 7);}
+ h1 {
+    color: rgb(16, 152, 231);
+    margin-left: 40px;}
+p {font-size: 20px;}
