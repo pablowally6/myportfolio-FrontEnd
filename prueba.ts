@@ -1,0 +1,1 @@
+let diaUno: "typeoff diaUno" = number 1;
